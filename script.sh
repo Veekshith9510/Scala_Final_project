@@ -1,2 +1,2 @@
 echo "Hello"
-echo "Hell Veekishth"
+echo "Hello Veekishth"
