@@ -1,3 +1,5 @@
+a=$1
+echo "$a"
 echo "Hello"
 echo "Hello Veekishth"
 echo "Nothing has changed"
